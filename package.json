@@ -1,0 +1,22 @@
+{
+  "name": "a00-ayanamonr",
+  "version": "1.0.0",
+  "description": "Assignment 00 for comp426",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a00-ayanamonr.git"
+  },
+  "author": "Ayana Monroe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a00-ayanamonr/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a00-ayanamonr#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
